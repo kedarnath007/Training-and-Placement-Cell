@@ -1,0 +1,106 @@
+<html>
+<head>
+	
+	<link rel="stylesheet" type="text/css" href="website.css"></link>
+</head>
+<body>
+<center>
+	<div class="page">
+	<div class="header">
+        <h1>MAHATMA GANDHI INSTITUTE OF TECHNOLOGY</h1><br>
+	<h3>Training & Placement Cell</h3>>
+		<div class=sublinks>
+			
+			<a href="contact.html">Contact  us</a>&nbsp
+			<a href="gallery.html">Gallery</a>
+			 <br>
+			
+		</div>
+	</div>
+	<div class="linkspart"><strong>
+		<a href="index.html">Home  </a>&nbsp
+		<a href="reachingmgit.html">About  </a>&nbsp
+		<a href="map.html">Reaching MGIT </a>&nbsp
+		<a href="ourrecruiters.html">OurRecruiters  </a>&nbsp
+		<a href="brouchers.html">Brouchers  </a>&nbsp
+		<a href="placementproceedure.html">PlacementProceedure</a>&nbsp</strong>
+	</div>
+	<div class="imagebox">
+		<div class="image">
+		</div>
+		
+	</div>
+		<div class="bodypart"> 
+			<div class="newspart">
+				<h2>News&Events</h2>
+				<div class="news">
+					<marquee direction="up" height=100% onmouseover="this.scrollAmount=0" onmouseout="this.scrollAmount=4" scrollamount="4" scrolldelay="0" direction="up" loop="true">
+						<h2>AboutPlacements</h2>
+<h4>Our Graduates pursue Post Graduate and Research Studies in several institutions of repute within and outside the country. The Placement wing in the college is successful in providing placements to the out-going students through campus recruitment conducted by many organization of national and international repute.
+
+The placement officer notifies the names of the companies that visit for placements to the students through circulars.
+
+Our Placement Officer:
+Dr. P Venkata Ramana
+M.Tech(IM),M.Tech(PE),Ph.D
+Professor of Mechanical Engineering</h4>
+					</marquee>
+				</div>
+			</div>
+			
+			<div class="contentpart"><h2>Welcome</h2>
+				<div class="content"><br><br>
+				
+				<style align="left"><p>The Training and Placement Cell of the Institute centrally handles all aspects of campus placements for the graduating students of all Dempartments.The T & P Cell is well equipped with excellent infrastructure to support each and every stage of the placement processes.The T & P staff members assist in arranging Pre-Placement Talks, Written Tests, Group Discussions, and Interviews etc.are made as per the requirements of the Organizations.</p></style>
+				<img src="clglogo.jpg"></img>
+				</div>
+			</div>
+			<div class="linkspart">
+				<h2>Quick links</h2>
+				<div class="links"><br>
+					<div class="linkbox"><br>
+					<form action="http://localhost/Placement Cell/login.php">
+  					 <input type="image" src="login.jpg" alt="Submit">
+					</form>
+					
+					</div><br><br><br><br><br><br><br>
+					<div class="linkbox"><br>
+					<form action="http://localhost/Placement Cell/website.html">
+  					 <input type="image" src="download.jpg" height="110" width="110" alt="Submit">
+					</form>		
+					
+					</div><br>
+				</div>
+			</div>
+
+		
+	</div>
+	<div class="awards">
+	<marquee direction="left">
+		<img src="persist.jpg" width="110" height="110"></img>
+		<img src="satven.jpg" width="140" height="110"></img>
+		<img src="tcs.jpg" width="140" height="110"></img>
+		<img src="infotech.jpg" width="110" height="110"></img>
+		<img src="delloite.jpg" width="160" height="110"></img>
+		<img src="lnt.jpg" width="110" height="110"></img>
+		<img src="infosys.jpg" width="150" height="110"></img>
+		<img src="adp.jpg" width="110" height="110"></img>
+		<img src="ags.jpg" width="130" height="110"></img>
+		<img src="amazon.jpg" width="110" height="110"></img>
+		<img src="dell.jpg" width="110" height="110"></img>
+		<img src="apps.jpg" width="170" height="110"></img>
+		<img src="parker.jpg" width="150" height="110"></img>
+		<img src="riktam.jpg" width="140" height="110"></img>
+		<img src="ggk.jpg" width="130" height="110"></img>
+		<img src="franklintempleton.jpg" width="110" height="110"></img>
+		<img src="veizon.jpg" width="110" height="110"></img>
+		<img src="virt.jpg" width="110" height="110"></img>
+	</marquee>
+	</div>
+	<br><br><br><br><br><br><br>
+	<div class="footer">
+		MGIT,Cse Department
+	</div>
+</center>
+</body>
+</html>
