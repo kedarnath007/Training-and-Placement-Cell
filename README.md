@@ -17,16 +17,16 @@ Inorder to reduce this manual effort, a web based application is designed where 
 
 Features:
 
-•	Notice
+•	Notice:
 There is a notice section created in the web application, which ensures that students are updated about the currents activities going on in the campus regarding placements.
 
-•	Student list generation
+•	Student list generation:
 Placement officer is provided with a webpage where he can generate the list of students eligible for the companies.
 
-•	View student profile
+•	View student profile:
 Placements office can view each students profile and their uploaded documents.
 
-•	Mailing
+•	Mailing:
 Placements office can mail important updates to the students.
 
 
