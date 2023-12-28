@@ -32,8 +32,8 @@ Placements office can mail important updates to the students.
 
 Technologies used:
 
-	Web Presentation: HTML, CSS
-	Client side Scripting: PHP
-	Back-end Database: My SQL
-	Operating System: Windows XP\7
-	Web server: Tomcat
+- [ ]	Web Presentation: HTML, CSS
+- [ ]	Client side Scripting: PHP
+- [ ]	Back-end Database: My SQL
+- [ ]	Operating System: Windows XP\7
+- [ ]	Web server: Tomcat
